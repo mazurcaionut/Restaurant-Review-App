@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "758226400572",
+    "project_id": "restaurantreviewapp-81e3e",
+    "storage_bucket": "restaurantreviewapp-81e3e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758226400572:android:60d7c3f975b07eeef09a39",
+        "android_client_info": {
+          "package_name": "com.example.restaurantreviewapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "758226400572-7ts4as895tpklmrthfg7pu5j48rpb906.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgwLZQXaMz1U70EYzWtG5YjJ6h1eJbbSI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "758226400572-7ts4as895tpklmrthfg7pu5j48rpb906.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
